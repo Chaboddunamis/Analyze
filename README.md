@@ -1,36 +1,36 @@
-# Analyze
+## Analyze
 ---
 Analyze is a python module that provides comprehensive statistical analysis of a dataframe in 5 lines of code. It creates significant insight for data scientists, analysts and machine learning engineers, enabling quick understanding of a dataset..
 ---
-## Installation
+### Installation
 
-### Install the package
+#### Install the package
 ```bash
 pip install Analyze
 ```
 ---
-### Import the package into your code
+#### Import the package into your code
 ```python
 from Analyze import analyze, get_dist
 ```
 ---
-### Read your dataset into a variable and make it a dataframe 
+#### Read your dataset into a variable and make it a dataframe 
 ```python
 data = pd.read_csv('file.csv') # Use the appropriate file extension
 ```
 ---
-### Create an instance of the analyze class
+#### Create an instance of the analyze class
 ```python
 Datavalue = analyze(data)
 ```
 ---
 
-### Explore the comprehensive statistical value of your dataset using the analyse method.
+#### Explore the comprehensive statistical value of your dataset using the analyse method.
 ```python
 Datavalue.analyze()
 ```
 ---
-## Sample Output
+#### Sample Output
 ```python
 ................................................
 These are the categorical features in your dataset:
@@ -290,5 +290,5 @@ dtype: float64
 ```
 ---
 
-## Maintainers: 
+#### Maintainers: 
 [Henry Uwakwe](https://www.linkedin.com/in/ikechukwu-henry-uwakwe-6916a5b6/) 
