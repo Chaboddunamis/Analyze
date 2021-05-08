@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/49274765/117547094-abf26480-b025-11eb-865b-f4c9cd2fd5a1.png" width="50%"></img> 
 #### Analyze
 ---
 Analyze is a python module that provides comprehensive statistical analysis of a dataframe in 5 lines of code. It creates significant insight for data scientists, analysts and machine learning engineers, enabling quick understanding of a dataset..It provides complete statistical insight including:
