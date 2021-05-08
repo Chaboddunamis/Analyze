@@ -1,6 +1,10 @@
-### Analyze
+#### Analyze
 ---
-Analyze is a python module that provides comprehensive statistical analysis of a dataframe in 5 lines of code. It creates significant insight for data scientists, analysts and machine learning engineers, enabling quick understanding of a dataset..
+Analyze is a python module that provides comprehensive statistical analysis of a dataframe in 5 lines of code. It creates significant insight for data scientists, analysts and machine learning engineers, enabling quick understanding of a dataset..It provides complete statistical insight including:
+1)Quantile statistics(Mean, Mode, Median, Standard deviation, variance, coefficient of variation, quartiles, interquartile ranges)
+2)Descriptive statistics(number of entries, missing values, data types, counts, correlation, and comprehensive information about the data distribution type. It offers insight into the distribution assumptions, and uses some statistical methods to evaluate density and exponentiation.
+
+Analyze does all of this in just 5 lines of code!!!
 ---
 ### Installation
 
